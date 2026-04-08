@@ -186,8 +186,12 @@ If a user may be in immediate danger or crisis, they should contact local emerge
 
 ## License
 
-Add your preferred license (for example, MIT) before publishing.
+MIT License
+
+## CodeAlpha AI Internship Context
+
+CodeAlpha provides practical internship experience in AI through real project tasks, mentorship, and industry-oriented workflows.
 
 ## Author
 
-Project developed for CodeAlpha Mental Health Chatbot practice and enhancement.
+[ISSAM SENSI](https://issamsensi.com)
