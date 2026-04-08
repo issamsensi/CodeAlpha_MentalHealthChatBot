@@ -98,7 +98,7 @@ python -m venv .venv
 ### 3) Install dependencies
 
 ```bash
-pip install flask pandas scikit-learn numpy
+pip install -r requirements.txt
 ```
 
 ### 4) Run the app
